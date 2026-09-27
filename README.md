@@ -1,23 +1,26 @@
 # Product Operating System
 
-The templates, rubrics and habits I use to run a product organization.
+How I decide what gets funded, what gets cut, and how we know it worked.
 
-Most product orgs do not fail because they ship too little. They fail because they decide slowly, keep more roadmaps than anyone can count, and add work faster than they remove it. AI makes this worse, not better: building got cheap, so incoherence is now the expensive part.
+Most product organizations do not fail because they ship too little. They fail because they decide slowly, run more roadmaps than anyone can count, and add work faster than they remove it. As CPO at iHeartMedia I inherited exactly that: several roadmaps, three analytics platforms and a long tail of features almost nobody used. We merged the roadmaps into one, consolidated the analytics into one, retired the low-use features, and moved roadmap decisions from campaign calendars to behavioral data. This repo is the system that came out of that work, rebuilt for a world where agents do much of the preparation.
 
-This repo is how I keep a product org coherent and fast. It is opinionated, and it is short on purpose.
-
-## What is here
+## For the executive team
 
 | File | Use it when |
 |---|---|
-| [`principles.md`](principles.md) | You want to know why the rest of this repo looks the way it does |
+| [`decision-velocity/measuring.md`](decision-velocity/measuring.md) | You want a number the board understands for how fast the company decides |
+| [`rubrics/roadmap-coherence-check.md`](rubrics/roadmap-coherence-check.md) | The organization feels busy but the portfolio does not add up to the strategy |
+| [`decision-velocity/decision-log.md`](decision-velocity/decision-log.md) | Settled decisions keep getting re-argued |
+| [`principles.md`](principles.md) | You want the operating principles behind everything else here |
+
+## For the teams
+
+| File | Use it when |
+|---|---|
+| [`rubrics/prioritization.md`](rubrics/prioritization.md) | There is more on the list than the team can carry |
 | [`templates/decision-memo.md`](templates/decision-memo.md) | A decision needs more than a hallway conversation |
 | [`templates/product-brief.md`](templates/product-brief.md) | Something is about to get built and you want one page everyone agrees on |
 | [`templates/agent-role-card.md`](templates/agent-role-card.md) | An agent is joining the team and people need to know what it does and may decide |
-| [`rubrics/prioritization.md`](rubrics/prioritization.md) | There is more on the list than the team can carry |
-| [`rubrics/roadmap-coherence-check.md`](rubrics/roadmap-coherence-check.md) | The org feels busy but nothing seems to add up |
-| [`decision-velocity/decision-log.md`](decision-velocity/decision-log.md) | You want to see where decisions actually get stuck |
-| [`decision-velocity/measuring.md`](decision-velocity/measuring.md) | You want to turn that log into a number a board understands |
 
 ## How the pieces fit
 
