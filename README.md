@@ -40,6 +40,6 @@ Copy what is useful, cut what is not. These are starting points, not rules. If a
 
 ## Related
 
-- [`govern-assessment`](https://github.com/utaknablein/govern-assessment): a diagnostic for leadership teams running AI as part of their operating model
+- [`engine-diagnostic`](https://github.com/utaknablein/engine-diagnostic): an AI maturity diagnostic for leadership teams, built on my ENGINE framework
 - [`agent-workflows`](https://github.com/utaknablein/agent-workflows): the agents that work with these templates, with triggers, permissions and a scorecard
 - More about me on my [profile](https://github.com/utaknablein)
