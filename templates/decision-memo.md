@@ -1,6 +1,6 @@
 # Decision Memo
 
-> Use this when a decision needs more than a hallway conversation. Keep it to one page. If it's longer, you probably have two decisions in one memo.
+> Use this when a decision needs more than a hallway conversation. Keep it to one page. If it is longer, you probably have two decisions in one memo.
 
 ---
 
@@ -11,6 +11,8 @@
 
 **Decide by:** *A date. A decision without a date is a discussion.*
 
+**Prepared by:** ☐ Person  ☐ Agent-assisted *(an agent drafted this memo; a person checked it and decides)*
+
 **Type:** ☐ One-way door (hard to reverse)  ☐ Two-way door (easy to reverse)
 
 > Two-way doors should be decided fast and by the person closest to the work. Spend your care on one-way doors.
@@ -19,7 +21,7 @@
 
 ## Why now
 
-*What happens if we don't decide by the date above? Be specific: cost, risk, a window closing.*
+*What happens if we do not decide by the date above? Be specific: cost, risk, a window closing.*
 
 ## Options
 
@@ -29,7 +31,7 @@
 | B | | | | |
 | C | *Do nothing* | | | |
 
-> Always include "do nothing." It's the option most orgs actually choose, just without saying so.
+> Always include "do nothing." It is the option most orgs actually choose, just without saying so.
 
 ## Recommendation
 

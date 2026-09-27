@@ -14,7 +14,7 @@ Write down how many distinct documents you get back.
 |---|---|
 | 1 | Good. Move on to step 2. |
 | 2 to 3 | Teams are translating between plans. Expect friction and slow decisions at every hand-off. |
-| 4 or more | There isn't one strategy, there are several, and the teams are negotiating between them every day. Fix this before anything else. |
+| 4 or more | There is not one strategy, there are several, and the teams are negotiating between them every day. Fix this before anything else. |
 
 ## 2. Trace five items
 
@@ -25,18 +25,18 @@ Pick five items from the roadmap at random. For each one, answer:
 | Which strategic goal does it serve? | | | | | |
 | Who owns it (one name)? | | | | | |
 | What primary metric will it move? | | | | | |
-| Is that metric defined the same way everywhere it's reported? | | | | | |
+| Is that metric defined the same way everywhere it is reported? | | | | | |
 | What did it replace or stop? | | | | | |
 
 Every blank is a finding.
 
 ## 3. Read the results
 
-- **Blank goals:** work that's there because it's always been there. Candidates to stop.
+- **Blank goals:** work that is there because it has always been there. Candidates to stop.
 - **Blank or shared owners:** decisions that will stall. Assign one name.
-- **Metrics defined differently in different places:** you'll spend meetings arguing about numbers instead of decisions. Fix the definition once. (See [One source of truth](../principles.md#3-one-source-of-truth).)
-- **Nothing replaced:** the org is only adding. Capacity didn't grow, so something is quietly slipping.
+- **Metrics defined differently in different places:** you will spend meetings arguing about numbers instead of decisions. Fix the definition once. (See [One source of truth](../principles.md#3-one-source-of-truth).)
+- **Nothing replaced:** the org is only adding. Capacity did not grow, so something is quietly slipping.
 
 ## 4. One decision
 
-Don't leave with a list of observations. Leave with one decision, written as a [decision memo](../templates/decision-memo.md): usually which roadmap becomes the one, and what stops.
+Do not leave with a list of observations. Leave with one decision, written as a [decision memo](../templates/decision-memo.md): usually which roadmap becomes the one, and what stops.
